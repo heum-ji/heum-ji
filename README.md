@@ -5,14 +5,15 @@
 1. IBK 퇴직연금 ETF 매매 시스템
 - 22.04.26 ~ 22.06.17
 - 스마트뱅킹 화면 개발
-- HTML / JS / JSP
 ---
 2. IBK 기업신용정보 대응 시스템
-- 22.06.17 ~ ing
-- 계정계 <-> FEP
-- FEP 전문 및 통합 단말 화면 및 서비스 개발
-- 장표 출력 개발 - REXPERT 사용
-- JAVA 1.7 / IBKFrame / Eclipse
+- 22.06.17 ~ 22.11.17
+- IBK 계정계 <-> 한국신용정보원
+- 기업신용정보 실시간 조회 (전문, FE, BE)
+- 기업신용정보 월말정보 조회 (DB 조회, FE, BE)
+- 법인채무보증 실시간 집중 (전문, FE, BE)
+- 법인채무보증 일보 data 적재 batch
+- JAVA 1.7 / Oracle DB
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heum-ji)](https://github.com/heum-ji/github-readme-stats)
 ---

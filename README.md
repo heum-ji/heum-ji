@@ -10,7 +10,6 @@
 - 기업신용정보 월말정보 조회 (DB 조회, FE, BE)
 - 법인채무보증 실시간 집중 (전문, FE, BE)
 - 법인채무보증 일보 data 적재 batch
-- JAVA 1.7 / Oracle DB
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heum-ji)](https://github.com/heum-ji/github-readme-stats)
 ---

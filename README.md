@@ -1,1 +1,1 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heum-ji&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heum-ji)](https://github.com/anuraghazra/github-readme-stats)

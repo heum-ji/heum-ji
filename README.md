@@ -1,6 +1,7 @@
 안녕하세요 :)
 
-✨Language✨  
+✨Language✨
+---
 ![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ---

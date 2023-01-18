@@ -1,7 +1,7 @@
 안녕하세요 :)
 
 ✨Language✨  
-![JAVA](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=OpenJDK&logoColor=white)
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 

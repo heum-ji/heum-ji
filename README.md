@@ -14,8 +14,9 @@
 
 ### Stack 
 ![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=OpenJDK&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=JavaScript&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?&style=flat&logo=Spring%20Boot&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?&style=flat&logo=jQuery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=JavaScript&logoColor=white)
 
 ### Tool
 ![Git](https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white)

@@ -8,10 +8,10 @@
 ![Gmail](https://img.shields.io/badge/dragon2009t@gmail.com-EA4335?&style=flat&logo=Gmail&logoColor=white)
 [![Blog](https://img.shields.io/badge/Blog-000000?&style=flat&logo=Tistory&logoColor=white)](https://heum-ji.tistory.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heum-ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heum-ji&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dragon2009t)](https://solved.ac/dragon2009t/)
----
+
 ### Stack 
 ![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=OpenJDK&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=JavaScript&logoColor=white)
